@@ -1,0 +1,19 @@
+{
+
+  "Prefix": "!",
+
+  "Users": {
+    "OWNERS": ["287440866610642944", "765840607699533834"]
+  },
+
+  "Handlers": {
+    "MONGO": "mongodb://localhost:27017",
+    "GUILD_ID": "926753541434007582"
+  },
+  
+  "Client": {
+    "TOKEN": "MTAwNjA3OTA3MDgzODIwMjQwMA.GkJQT2.WRzOjs_u4Pba0xiYiK5Y2AhtkGH5oegd0r679A",
+    "ID": "1006079070838202400"
+  }
+  
+}

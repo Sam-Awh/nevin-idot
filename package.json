@@ -1,14 +1,21 @@
 {
-  "name": "js-discordbot",
+  "name": "nevin-idot",
   "version": "1.0.0",
-  "description": "",
-  "main": "pingpong.js",
+  "description": "nevin big fat dumdum",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Sam-Awh",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "better-sqlite3": "^7.6.2",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.1.1",
+    "mongoose": "^6.4.4",
+    "node-fetch": "^2.6.7",
+    "quick.db": "^9.0.5"
   }
 }
